@@ -54,3 +54,4 @@ jobs:
       with:
         name: Rastreio-APK
         path: "**/build/outputs/apk/debug/*.apk"
+        
